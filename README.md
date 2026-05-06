@@ -1,12 +1,17 @@
 <div align="center">
 
-# Никита · zeroesss
+<img src="./assets/profile-banner.svg" alt="Никита · zeroesss — Full-stack / Backend / Systems Developer" />
 
-### Full-stack / Backend / Systems Developer
+<br />
 
 I build practical production systems: CRMs, Telegram bots, automation pipelines, parsers, integrations, admin panels and backend infrastructure.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=CRM+systems+%7C+Telephony+%7C+Automation;Laravel+%2B+Python+%2B+React+%2B+Linux;Building+systems+for+real+business+load" alt="Typing SVG" />
+<br />
+<br />
+
+<a href="https://t.me/zeroe_ss">
+  <img src="https://img.shields.io/badge/Telegram-@zeroe__ss-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @zeroe_ss" />
+</a>
 
 </div>
 
@@ -98,6 +103,5 @@ I care about practical architecture: code should survive real users, messy data,
 <div align="center">
 
 ### Building software that makes business operations faster, cleaner and less chaotic.
-
 
 </div>
