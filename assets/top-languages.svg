@@ -1,18 +1,17 @@
-<svg width="760" height="350" viewBox="0 0 760 350" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Top languages">
+<svg width="680" height="390" viewBox="0 0 680 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Top languages">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="350"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="760" y2="0"><stop stop-color="#36BCF7"/><stop offset="0.5" stop-color="#7C3AED"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="680" y2="390"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="600" y2="0"><stop stop-color="#38BDF8"/><stop offset="0.55" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
     <style>
-      .title { font: 700 28px 'Inter', 'Segoe UI', Arial, sans-serif; fill: #F8FAFC; }
-      .sub { font: 500 14px 'Inter', 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
-      .label { font: 600 16px 'Inter', 'Segoe UI', Arial, sans-serif; fill: #CBD5E1; }
-      .value { font: 700 15px 'JetBrains Mono', 'SFMono-Regular', monospace; fill: #E2E8F0; }
+      .title { font: 700 25px 'Segoe UI', Arial, sans-serif; fill: #F8FAFC; }
+      .sub { font: 500 13px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
+      .label { font: 600 15px 'Segoe UI', Arial, sans-serif; fill: #CBD5E1; }
+      .value { font: 700 14px 'SFMono-Regular', Consolas, monospace; fill: #E2E8F0; }
     </style>
   </defs>
-  <rect x="1" y="1" width="758" height="348" rx="22" fill="url(#bg)" stroke="#263244"/>
-  <rect x="28" y="28" width="704" height="4" rx="2" fill="url(#line)" filter="url(#glow)"/>
-  <text x="44" y="72" class="title">Top languages</text>
-  <text x="44" y="96" class="sub">Aggregated from available repositories, including private metadata</text>
-  <text x="52" y="116" class="label">Python</text><text x="708" y="116" class="value" text-anchor="end">58.7%</text><rect x="52" y="126" width="656" height="10" rx="5" fill="#1E293B"/><rect x="52" y="126" width="385.2" height="10" rx="5" fill="#3776AB"/><text x="52" y="146" class="label">TypeScript</text><text x="708" y="146" class="value" text-anchor="end">23.7%</text><rect x="52" y="156" width="656" height="10" rx="5" fill="#1E293B"/><rect x="52" y="156" width="155.3" height="10" rx="5" fill="#3178C6"/><text x="52" y="176" class="label">PHP</text><text x="708" y="176" class="value" text-anchor="end">4.1%</text><rect x="52" y="186" width="656" height="10" rx="5" fill="#1E293B"/><rect x="52" y="186" width="26.9" height="10" rx="5" fill="#777BB4"/><text x="52" y="206" class="label">JavaScript</text><text x="708" y="206" class="value" text-anchor="end">3.5%</text><rect x="52" y="216" width="656" height="10" rx="5" fill="#1E293B"/><rect x="52" y="216" width="23.0" height="10" rx="5" fill="#F7DF1E"/><text x="52" y="236" class="label">CSS</text><text x="708" y="236" class="value" text-anchor="end">3.1%</text><rect x="52" y="246" width="656" height="10" rx="5" fill="#1E293B"/><rect x="52" y="246" width="20.5" height="10" rx="5" fill="#1572B6"/><text x="52" y="266" class="label">C#</text><text x="708" y="266" class="value" text-anchor="end">2.3%</text><rect x="52" y="276" width="656" height="10" rx="5" fill="#1E293B"/><rect x="52" y="276" width="14.9" height="10" rx="5" fill="#94A3B8"/><text x="52" y="296" class="label">HTML</text><text x="708" y="296" class="value" text-anchor="end">1.8%</text><rect x="52" y="306" width="656" height="10" rx="5" fill="#1E293B"/><rect x="52" y="306" width="11.7" height="10" rx="5" fill="#E34F26"/>
+  <rect x="1" y="1" width="678" height="388" rx="18" fill="url(#bg)" stroke="#243044"/>
+  <rect x="34" y="28" width="612" height="4" rx="2" fill="url(#accent)"/>
+  <text x="42" y="68" class="title">Top languages</text>
+  <text x="42" y="91" class="sub">Aggregated from available public/private repository metadata</text>
+  <text x="42" y="122" class="label">Python</text><text x="638" y="122" class="value" text-anchor="end">58.7%</text><rect x="42" y="134" width="596" height="9" rx="4.5" fill="#1E293B"/><rect x="42" y="134" width="350.0" height="9" rx="4.5" fill="#3776AB"/><text x="42" y="160" class="label">TypeScript</text><text x="638" y="160" class="value" text-anchor="end">23.7%</text><rect x="42" y="172" width="596" height="9" rx="4.5" fill="#1E293B"/><rect x="42" y="172" width="141.1" height="9" rx="4.5" fill="#3178C6"/><text x="42" y="198" class="label">PHP</text><text x="638" y="198" class="value" text-anchor="end">4.1%</text><rect x="42" y="210" width="596" height="9" rx="4.5" fill="#1E293B"/><rect x="42" y="210" width="24.4" height="9" rx="4.5" fill="#777BB4"/><text x="42" y="236" class="label">JavaScript</text><text x="638" y="236" class="value" text-anchor="end">3.5%</text><rect x="42" y="248" width="596" height="9" rx="4.5" fill="#1E293B"/><rect x="42" y="248" width="20.9" height="9" rx="4.5" fill="#F7DF1E"/><text x="42" y="274" class="label">CSS</text><text x="638" y="274" class="value" text-anchor="end">3.1%</text><rect x="42" y="286" width="596" height="9" rx="4.5" fill="#1E293B"/><rect x="42" y="286" width="18.6" height="9" rx="4.5" fill="#1572B6"/><text x="42" y="312" class="label">C#</text><text x="638" y="312" class="value" text-anchor="end">2.3%</text><rect x="42" y="324" width="596" height="9" rx="4.5" fill="#1E293B"/><rect x="42" y="324" width="13.5" height="9" rx="4.5" fill="#9B4F96"/><text x="42" y="350" class="label">HTML</text><text x="638" y="350" class="value" text-anchor="end">1.8%</text><rect x="42" y="362" width="596" height="9" rx="4.5" fill="#1E293B"/><rect x="42" y="362" width="10.7" height="9" rx="4.5" fill="#E34F26"/>
 </svg>

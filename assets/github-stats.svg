@@ -1,25 +1,22 @@
-<svg width="760" height="310" viewBox="0 0 760 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub / private work footprint">
+<svg width="680" height="260" viewBox="0 0 680 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub private work footprint">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="310" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0D1117"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#36BCF7"/>
-      <stop offset="0.5" stop-color="#7C3AED"/>
-      <stop offset="1" stop-color="#22C55E"/>
-    </linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="680" y2="260"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="600" y2="0"><stop stop-color="#38BDF8"/><stop offset="0.55" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
     <style>
-      .title { font: 700 28px 'Inter', 'Segoe UI', Arial, sans-serif; fill: #F8FAFC; }
-      .sub { font: 500 14px 'Inter', 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
-      .label { font: 600 17px 'Inter', 'Segoe UI', Arial, sans-serif; fill: #CBD5E1; }
-      .value { font: 700 17px 'JetBrains Mono', 'SFMono-Regular', monospace; fill: #E2E8F0; }
+      .title { font: 700 25px 'Segoe UI', Arial, sans-serif; fill: #F8FAFC; }
+      .sub { font: 500 13px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
+      .label { font: 600 15px 'Segoe UI', Arial, sans-serif; fill: #CBD5E1; }
+      .value { font: 700 15px 'SFMono-Regular', Consolas, monospace; fill: #E2E8F0; }
+      .muted { fill: #94A3B8; }
     </style>
   </defs>
-  <rect x="1" y="1" width="758" height="308" rx="22" fill="url(#bg)" stroke="#263244"/>
-  <rect x="28" y="28" width="704" height="4" rx="2" fill="url(#line)" filter="url(#glow)"/>
-  <text x="44" y="72" class="title">GitHub / private work footprint</text>
-  <text x="44" y="96" class="sub">Aggregated profile overview — private repo names are not exposed</text>
-  <circle cx="52" cy="107" r="5" fill="#36BCF7"/><text x="68" y="112" class="label">Total repositories</text><text x="708" y="112" class="value" text-anchor="end">11</text><circle cx="52" cy="141" r="5" fill="#7C3AED"/><text x="68" y="146" class="label">Private production repos</text><text x="708" y="146" class="value" text-anchor="end">8</text><circle cx="52" cy="175" r="5" fill="#22C55E"/><text x="68" y="180" class="label">Public repositories</text><text x="708" y="180" class="value" text-anchor="end">3</text><circle cx="52" cy="209" r="5" fill="#F59E0B"/><text x="68" y="214" class="label">Main focus</text><text x="708" y="214" class="value" text-anchor="end">CRM · Bots · Automation · Infrastructure</text><circle cx="52" cy="243" r="5" fill="#EF4444"/><text x="68" y="248" class="label">Work style</text><text x="708" y="248" class="value" text-anchor="end">Production-first systems engineering</text>
+  <rect x="1" y="1" width="678" height="258" rx="18" fill="url(#bg)" stroke="#243044"/>
+  <rect x="34" y="28" width="612" height="4" rx="2" fill="url(#accent)"/>
+  <text x="42" y="68" class="title">GitHub / private work footprint</text>
+  <text x="42" y="91" class="sub">Aggregated profile overview — private repository names are not exposed</text>
+
+  <circle cx="48" cy="127" r="5" fill="#38BDF8"/><text x="64" y="132" class="label">Total repositories</text><text x="620" y="132" class="value" text-anchor="end">11</text>
+  <circle cx="48" cy="162" r="5" fill="#8B5CF6"/><text x="64" y="167" class="label">Private production repositories</text><text x="620" y="167" class="value" text-anchor="end">8</text>
+  <circle cx="48" cy="197" r="5" fill="#22C55E"/><text x="64" y="202" class="label">Public repositories</text><text x="620" y="202" class="value" text-anchor="end">3</text>
+  <text x="42" y="232" class="sub">Main focus: CRM · Bots · Automation · Infrastructure</text>
 </svg>
