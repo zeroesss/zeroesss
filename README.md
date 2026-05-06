@@ -4,7 +4,7 @@
 
 <br />
 
-I build practical production systems: CRMs, Telegram bots, automation pipelines, parsers, integrations, admin panels and backend infrastructure.
+Freelance / contract developer building practical production systems: CRMs, Telegram bots, automation pipelines, parsers, integrations, admin panels and backend infrastructure.
 
 <br />
 <br />
@@ -19,6 +19,7 @@ I build practical production systems: CRMs, Telegram bots, automation pipelines,
 
 ## 🛠️ What I do
 
+- Work as a **freelance / contract developer** on business-critical systems
 - Build and maintain **production CRM systems** used by real business users
 - Develop **Telegram bots**, parsers, automation and notification systems
 - Integrate **telephony, payments, APIs, admin panels and internal tools**
