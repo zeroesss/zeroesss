@@ -70,7 +70,7 @@ Frontend                 ███████████████░░░�
 
 <div align="center">
 
-<img src="./assets/github-stats.svg" alt="GitHub / private work footprint" />
+<img src="./assets/github-stats.svg" alt="Engineering footprint" />
 
 <br />
 <br />
@@ -99,6 +99,5 @@ I care about practical architecture: code should survive real users, messy data,
 
 ### Building software that makes business operations faster, cleaner and less chaotic.
 
-![Profile views](https://komarev.com/ghpvc/?username=zeroesss&style=for-the-badge&color=blueviolet)
 
 </div>

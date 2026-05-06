@@ -1,4 +1,4 @@
-<svg width="680" height="260" viewBox="0 0 680 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub private work footprint">
+<svg width="680" height="260" viewBox="0 0 680 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering footprint">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="680" y2="260"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="600" y2="0"><stop stop-color="#38BDF8"/><stop offset="0.55" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
@@ -7,16 +7,15 @@
       .sub { font: 500 13px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
       .label { font: 600 15px 'Segoe UI', Arial, sans-serif; fill: #CBD5E1; }
       .value { font: 700 15px 'SFMono-Regular', Consolas, monospace; fill: #E2E8F0; }
-      .muted { fill: #94A3B8; }
     </style>
   </defs>
   <rect x="1" y="1" width="678" height="258" rx="18" fill="url(#bg)" stroke="#243044"/>
   <rect x="34" y="28" width="612" height="4" rx="2" fill="url(#accent)"/>
-  <text x="42" y="68" class="title">GitHub / private work footprint</text>
-  <text x="42" y="91" class="sub">Aggregated profile overview — private repository names are not exposed</text>
+  <text x="42" y="68" class="title">Engineering footprint</text>
+  <text x="42" y="91" class="sub">Production-oriented backend, automation and infrastructure work</text>
 
-  <circle cx="48" cy="127" r="5" fill="#38BDF8"/><text x="64" y="132" class="label">Total repositories</text><text x="620" y="132" class="value" text-anchor="end">11</text>
-  <circle cx="48" cy="162" r="5" fill="#8B5CF6"/><text x="64" y="167" class="label">Private production repositories</text><text x="620" y="167" class="value" text-anchor="end">8</text>
-  <circle cx="48" cy="197" r="5" fill="#22C55E"/><text x="64" y="202" class="label">Public repositories</text><text x="620" y="202" class="value" text-anchor="end">3</text>
-  <text x="42" y="232" class="sub">Main focus: CRM · Bots · Automation · Infrastructure</text>
+  <circle cx="48" cy="127" r="5" fill="#38BDF8"/><text x="64" y="132" class="label">Tracked repositories</text><text x="620" y="132" class="value" text-anchor="end">11</text>
+  <circle cx="48" cy="162" r="5" fill="#8B5CF6"/><text x="64" y="167" class="label">Core stack</text><text x="620" y="167" class="value" text-anchor="end">Python · TypeScript · PHP · JavaScript</text>
+  <circle cx="48" cy="197" r="5" fill="#22C55E"/><text x="64" y="202" class="label">Main domain</text><text x="620" y="202" class="value" text-anchor="end">CRM · Bots · Automation</text>
+  <text x="42" y="232" class="sub">Focus: real business systems, integrations, data workflows and stability</text>
 </svg>
