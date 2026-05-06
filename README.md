@@ -74,12 +74,12 @@ Public stats show only the visible part of the work; private contributions are d
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeroesss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroesss&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="./assets/github-stats.svg" alt="GitHub / private work footprint" />
 
 <br />
+<br />
 
-<img src="https://streak-stats.demolab.com?user=zeroesss&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="./assets/top-languages.svg" alt="Top languages" />
 
 </div>
 
