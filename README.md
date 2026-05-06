@@ -66,7 +66,11 @@ Frontend                 ███████████████░░░�
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub activity
+
+Most of my real production work lives in **private repositories**: client CRMs, internal automation, bots, parsing systems and infrastructure code.
+
+Public stats show only the visible part of the work; private contributions are displayed by GitHub as anonymized activity when enabled in profile settings.
 
 <div align="center">
 
@@ -78,6 +82,16 @@ Frontend                 ███████████████░░░�
 <img src="https://streak-stats.demolab.com?user=zeroesss&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
+
+### Private work footprint
+
+```text
+Production CRM systems     private repositories
+Telegram bots              private repositories
+Parsing / automation       private repositories
+Infrastructure / deploys   private repositories
+Client integrations        private repositories
+```
 
 ---
 
